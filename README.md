@@ -6,6 +6,7 @@ Inspired by the several Auto-GPT related Projects (predominently BabyAGI) and th
 
 ## Updates
 April 12: Added "read" and "think" commands. Add "read: " or "think: " in front of a query to feed it information using read (any length works) or insert a memory into agent.
+April 21: Added "readDoc" to read a local .txt document and add to "thoughts"
 
 ### Sections
 - [How it Works](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#how-it-works)
